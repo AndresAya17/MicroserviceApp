@@ -1,7 +1,7 @@
 
-# 📦 Product API with Authentication & Authorization
+# 📦 COURSES AND STUDENTS API MICROSERVICE PROJECT
 
-![Java](https://img.shields.io/badge/Java-17-blue.svg) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green.svg) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue.svg) ![Maven](https://img.shields.io/badge/Maven-3.8.6-C71A36.svg) ![Docker](https://img.shields.io/badge/Docker-20.10-blue.svg)
+![Java](https://img.shields.io/badge/Java-17-blue.svg) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green.svg) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue.svg) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg) ![Maven](https://img.shields.io/badge/Maven-3.8.6-C71A36.svg) ![Docker](https://img.shields.io/badge/Docker-20.10-blue.svg)
 
 ## 🛠️ Proyecto en Java
 
