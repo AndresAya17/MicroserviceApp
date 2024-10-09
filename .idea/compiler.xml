@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="domi-eureka" />
+        <module name="domi-config" />
+        <module name="domi-gateway" />
+        <module name="domi-student" />
+        <module name="domi-course" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="domi-config" options="-parameters" />
+      <module name="domi-course" options="-parameters" />
+      <module name="domi-eureka" options="-parameters" />
+      <module name="domi-gateway" options="-parameters" />
+      <module name="domi-student" options="-parameters" />
+    </option>
+  </component>
+</project>
